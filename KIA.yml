@@ -1,5 +1,9 @@
 team: KIA
+<<<<<<< HEAD
 manager: 전에스더
+=======
+manager: 안재진
+>>>>>>> 5fd58d2c1a5c268494e4562fb9442cfb0c5b21cc
 coach: 진갑용
 
 members:
